@@ -6,7 +6,7 @@
 - metrics_2.jpg;
 - metrics_3.jpg.
 
-Преобразование данных, расчет показателей осуществлялось с помощью SQL-запросов:
+Преобразование данных, расчет показателей осуществлялись с помощью SQL-запросов:
 - ARPPU-CAC.sql;
 - ARPU, ARPPU, AOV.sql;
 - delivered and canceled orders.sql;
